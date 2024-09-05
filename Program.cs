@@ -1,6 +1,5 @@
 ﻿using DesafioPOO.Models;
 
-// TODO: Realizar os testes com as classes Nokia e Iphone
 Console.WriteLine("Testes Nokia");
 Nokia n1 = new Nokia("123456789", "Tijolo", "abcd", 64);
 n1.InstalarAplicativo("Netflix");
